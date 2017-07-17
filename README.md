@@ -1,2 +1,2 @@
 # content-jenkins-mulibranch-pipeline
-#testing
+#testing the new settings
